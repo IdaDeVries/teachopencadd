@@ -10,3 +10,23 @@ T002:
 T003:
 - Got rid of rdkit PandasTools as no longer supported, replaced by rdkit MolsToGridImage drawing from smiles
 - TODO later: Remove dependency on T002 output files - potentially
+
+T004:
+- Removed dependency on PandasTools
+- TODO later: Remove dependency on T002 output files - potentially
+
+T005:
+- Removed unused dependency on teachopencadd.utils
+- TODO later: Remove dependency on T002 output files - potentially
+
+T006:
+- Cleaned import statements by removing unused packages
+- Removed dependency on PandasTools
+- TODO later: Remove dependency on T001 and T005 output files - potentially
+
+T007:
+- Removed dependency on teachopencadd.utils
+- Replaced the teachopencadd.utils seed_everything() part with SEED=22 random.seed and np.random.seed
+- Updated deprecated SVC(probability=True) for future robustness
+- TODO later: Remove dependency on T005 output files - potentially
+
