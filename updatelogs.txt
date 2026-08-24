@@ -1,0 +1,12 @@
+T001:
+- Replaced the chembl_webresource_client dependency with direct official ChEMBL REST API, including automatic pagination and batch compound retrieval
+- Preserved the original notebook workflow and filtering logic 
+- Improved robustness solving modern Python/package compatibility issues
+
+T002:
+- Minor change in import statement (Removed not used package)
+- TODO later: Remove dependency on T001 output files - potentially
+
+T003:
+- Got rid of rdkit PandasTools as no longer supported, replaced by rdkit MolsToGridImage drawing from smiles
+- TODO later: Remove dependency on T002 output files - potentially
