@@ -30,3 +30,36 @@ T007:
 - Updated deprecated SVC(probability=True) for future robustness
 - TODO later: Remove dependency on T005 output files - potentially
 
+T009:
+- relies on output T008, which is problematic
+- Replace this talktorial by tutorial using Pharmit webinterface in ACMDD course 
+
+T013:
+- Got rid of PandasTools
+- API might be busy
+
+T021:
+- Removed dependency on PandasTools
+- Updated scikit-learn one-hot encoding 
+- Added pip install tensorflow to enable students to run the supplementary matrial in Noteable
+
+T022:
+- Removed dependency on PandasTools
+- Added pip install tensorflow to enable students to run the notebook in Noteable
+- Updated scikit-learn one-hot encoding 
+- Updated Keras model checkpoint filenames to comply with modern Keras
+- Added tensorflow log suppression to hide unnecessary CPU/GPU startup messages
+
+
+
+
+-----------------------------------------------------------------------------
+TODO: for myself to mimic noteable env add to yml
+- rdkit
+- seaborn
+- mdtraj
+- setuptools 
+?- redo (verify against exported Noteable environment)
+?- bravado (verify against exported Noteable environment)
+?- matplotlib-venn (verify against exported Noteable environment)
+
