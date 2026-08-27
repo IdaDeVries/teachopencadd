@@ -37,6 +37,7 @@ T009:
 T013:
 - Got rid of PandasTools
 - API might be busy
+- URGENT: Seems to be stuck all day at HTTPError: 503 Server Error: PUGREST.ServerBusy for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aspirin/cids/JSON
 
 T021:
 - Removed dependency on PandasTools
@@ -52,14 +53,28 @@ T022:
 
 
 
+T008:
+- Replaced functions that relied on deprecated RCSB ligand exported
+- TODO: URGENT Well, better rewrite completely to use PDBe-KB API s
+
 
 -----------------------------------------------------------------------------
 TODO: for myself to mimic noteable env add to yml
 - rdkit
 - seaborn
 - mdtraj
-- setuptools 
-?- redo (verify against exported Noteable environment)
+- setuptools 82.0.1
+- redo 
+- pymongo
+- requests-cache
+- mordred
 ?- bravado (verify against exported Noteable environment)
 ?- matplotlib-venn (verify against exported Noteable environment)
 
+
+Known issue ngl view:
+- NGLView emits a pkg_resources deprecation warning.
+- Functionality is unaffected.
+- Root cause is an upstream dependency in NGLView.
+- No notebook changes required.
+- TODO: Longer term: Replace NGLView with another molecular viewer
