@@ -35,9 +35,9 @@ T009:
 - Replace this talktorial by tutorial using Pharmit webinterface in ACMDD course 
 
 T013:
+- Updated API change CanonicalSMILES to ConnectivitySMILES
 - Got rid of PandasTools
 - API might be busy
-- URGENT: Seems to be stuck all day at HTTPError: 503 Server Error: PUGREST.ServerBusy for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aspirin/cids/JSON
 
 T021:
 - Removed dependency on PandasTools
@@ -56,6 +56,9 @@ T022:
 T008:
 - Replaced functions that relied on deprecated RCSB ligand exported
 - TODO: URGENT Well, better rewrite completely to use PDBe-KB API s
+
+T010:
+- Rewrote alignment of protein part (ongoing)
 
 
 -----------------------------------------------------------------------------
