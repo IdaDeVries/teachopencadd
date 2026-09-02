@@ -39,6 +39,16 @@ T013:
 - Got rid of PandasTools
 - API might be busy
 
+T014:
+- Proteinplus API already raises 429 ("error": "Too many requests", "message": "Throttle limit reached. Retry later.") after two calls -> not ideal, but Introduced a sleep step 
+- Removed dependency on teachopencadd helpers
+- Retrieve KLIFS data using API now
+- Simplified the pocket overlap analysis as bit (minor, objectives still met)
+
+T016:
+- added pip install for PLIP
+- Updated RCSB API call
+
 T021:
 - Removed dependency on PandasTools
 - Updated scikit-learn one-hot encoding 
@@ -53,12 +63,24 @@ T022:
 
 
 
+
+
 T008:
 - Replaced functions that relied on deprecated RCSB ligand exported
-- TODO: URGENT Well, better rewrite completely to use PDBe-KB API s
+- Rewrote completely keeping the same aims and objectives
+- Introduced an mmCIF file intermezzo
+- TODO: work on visualizer
 
 T010:
 - Rewrote alignment of protein part (ongoing)
+- Not sure if this is the way to go as RMSD values rather high
+- TODO: Triple check and adjust
+
+T015:
+- Removed dependencyon teachopencadd
+- Rewrote PDB-file download
+- TODO: Problem with smina and python3.13 seems (will be problematic for T018 as well, and for all courses)
+
 
 
 -----------------------------------------------------------------------------
