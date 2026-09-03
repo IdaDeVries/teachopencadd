@@ -15443,7 +15443,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3001     -65.959 -12.738 -46.936  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3001     -64.989 -12.738 -46.936  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3001     -66.282 -12.266 -47.719  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3001     -66.282 -13.286 -47.668  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -17452,7 +17452,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3002     -62.836  -2.145 -46.189  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3002     -61.866  -2.145 -46.189  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3002     -63.159  -2.046 -45.280  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3002     -63.159  -2.957 -45.768  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -19461,7 +19461,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3003     -57.517  15.228 -36.636  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3003     -56.547  15.228 -36.636  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3003     -57.840  16.063 -37.008  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3003     -57.840  16.102 -36.904  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -21470,7 +21470,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3004     -49.800   4.639 -12.696  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3004     -48.830   4.639 -12.696  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3004     -50.123   3.891 -13.222  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3004     -50.123   4.739 -11.787  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -23479,7 +23479,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3005     -39.517   5.471 -14.961  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3005     -38.547   5.471 -14.961  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3005     -39.840   4.657 -14.544  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3005     -39.840   5.037 -14.156  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -25488,7 +25488,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3006     -39.589  -1.604 -16.710  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3006     -38.619  -1.604 -16.710  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3006     -39.912  -0.690 -16.694  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3006     -39.912  -0.827 -16.227  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -27497,7 +27497,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3007     -50.653   1.101 -12.382  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3007     -49.683   1.101 -12.382  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3007     -50.976   1.735 -11.723  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3007     -50.976   1.511 -11.565  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -29506,7 +29506,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3008     -45.022  -5.024 -12.169  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3008     -44.052  -5.024 -12.169  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3008     -45.345  -4.135 -12.384  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3008     -45.345  -5.113 -13.079  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -31515,7 +31515,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3009     -48.923  -3.693  -8.623  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3009     -47.953  -3.693  -8.623  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3009     -49.246  -2.834  -8.309  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3009     -49.246  -4.067  -7.788  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -33524,7 +33524,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3010     -49.381 -15.750  -8.262  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3010     -48.411 -15.750  -8.262  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3010     -49.704 -16.120  -9.098  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3010     -49.704 -16.636  -8.037  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -35533,7 +35533,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3011     -70.750  -4.973 -20.779  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3011     -69.780  -4.973 -20.779  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3011     -71.073  -4.370 -20.092  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3011     -71.073  -5.666 -21.376  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -37542,7 +37542,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3012     -69.050 -15.398 -31.112  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3012     -68.080 -15.398 -31.112  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3012     -69.373 -15.090 -31.973  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3012     -69.373 -16.298 -31.273  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -39551,7 +39551,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3013     -65.829  -2.470 -41.891  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3013     -64.859  -2.470 -41.891  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3013     -66.152  -2.099 -41.055  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3013     -66.152  -3.016 -41.157  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -41560,7 +41560,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3014     -48.492 -13.139 -19.795  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3014     -47.522 -13.139 -19.795  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3014     -48.815 -13.487 -18.949  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3014     -48.815 -13.730 -19.097  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -43569,7 +43569,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3015     -69.319  -1.216 -18.271  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3015     -68.349  -1.216 -18.271  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3015     -69.642  -1.055 -17.371  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3015     -69.642  -1.565 -17.426  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -45578,7 +45578,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3016     -53.755  -6.623 -40.418  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3016     -52.785  -6.623 -40.418  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3016     -54.078  -7.461 -40.785  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3016     -54.078  -7.537 -40.457  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -47587,7 +47587,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3017     -44.537 -15.444 -25.340  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3017     -43.567 -15.444 -25.340  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3017     -44.860 -15.243 -26.232  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3017     -44.860 -14.840 -26.027  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -49596,7 +49596,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3018     -45.228 -18.663 -24.115  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3018     -44.258 -18.663 -24.115  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3018     -45.551 -19.031 -24.952  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3018     -45.551 -17.776 -23.892  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -51605,7 +51605,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3019     -42.328 -13.986 -12.496  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3019     -41.358 -13.986 -12.496  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3019     -42.651 -13.259 -13.050  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3019     -42.651 -14.705 -13.062  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -53614,7 +53614,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3020     -53.711 -32.229 -17.188  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3020     -52.741 -32.229 -17.188  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3020     -54.034 -32.894 -17.815  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3020     -54.034 -31.472 -16.675  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -55623,7 +55623,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3021     -70.607 -26.450 -18.389  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3021     -69.637 -26.450 -18.389  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3021     -70.930 -25.735 -18.959  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3021     -70.930 -26.123 -19.243  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -57632,7 +57632,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3022     -71.292 -28.627 -20.550  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3022     -70.322 -28.627 -20.550  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3022     -71.615 -28.865 -19.667  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3022     -71.615 -27.732 -20.737  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -59641,7 +59641,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3023     -71.714 -25.426 -21.315  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3023     -70.744 -25.426 -21.315  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3023     -72.037 -26.060 -21.974  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3023     -72.037 -26.183 -21.828  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -61650,7 +61650,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3024     -62.188 -32.167 -30.593  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3024     -61.218 -32.167 -30.593  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3024     -62.511 -32.810 -31.243  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3024     -62.511 -31.280 -30.817  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -63659,7 +63659,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3025     -59.442 -28.066 -36.058  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3025     -58.472 -28.066 -36.058  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3025     -59.765 -27.403 -36.688  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3025     -59.765 -28.761 -35.464  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -65668,7 +65668,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3026     -73.557 -22.732 -16.895  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3026     -72.587 -22.732 -16.895  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3026     -73.880 -21.951 -16.419  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3026     -73.880 -23.547 -17.309  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -67677,7 +67677,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3027     -64.130 -18.831   3.597  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3027     -63.160 -18.831   3.597  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3027     -64.453 -18.217   2.919  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3027     -64.453 -17.981   3.260  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -69686,7 +69686,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3028     -68.751  -6.097  -0.477  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3028     -67.781  -6.097  -0.477  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3028     -69.074  -6.230  -1.382  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3028     -69.074  -5.401   0.116  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -71695,7 +71695,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3029     -60.972   0.788  -4.812  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3029     -60.002   0.788  -4.812  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3029     -61.295  -0.122  -4.720  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3029     -61.295  -0.120  -4.923  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -73704,7 +73704,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3030     -49.791  14.589  -8.447  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3030     -48.821  14.589  -8.447  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3030     -50.114  15.165  -7.736  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3030     -50.114  13.982  -7.763  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -75713,7 +75713,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3031     -53.040  19.276  -7.388  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3031     -52.070  19.276  -7.388  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3031     -53.363  19.094  -8.284  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3031     -53.363  18.494  -6.913  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -77722,7 +77722,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3032     -46.257 -16.232 -10.232  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3032     -45.287 -16.232 -10.232  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3032     -46.580 -15.736  -9.464  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3032     -46.580 -15.437  -9.781  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -79731,7 +79731,7 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3033     -71.817  -3.234 -23.672  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3033     -70.847  -3.234 -23.672  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3033     -72.140  -3.870 -24.329  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3033     -72.140  -2.424 -23.248  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0
 REMARK  Name = /home/idade/projects/teachingrepos/teachopencadd/talktorials/T015_protein_ligand_docking/data/protein.pdb
@@ -81740,6 +81740,6 @@ REMARK                         _______ _______ _______ _____ _____    ______ ___
 ROOT
 ATOM      1  O   HOH A3034     -66.709   7.903 -31.224  1.00  0.00    -0.410 OA
 ATOM      2  H   HOH A3034     -65.739   7.903 -31.224  1.00  0.00    +0.205 HD
-ATOM      3  H   HOH A3034     -67.032   8.757 -30.897  1.00  0.00    +0.205 HD
+ATOM      3  H   HOH A3034     -67.032   7.050 -30.894  1.00  0.00    +0.205 HD
 ENDROOT
 TORSDOF 0

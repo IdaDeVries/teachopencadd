@@ -45,6 +45,11 @@ T014:
 - Retrieve KLIFS data using API now
 - Simplified the pocket overlap analysis as bit (minor, objectives still met)
 
+T015:
+- Removed dependency on teachopencadd
+- Added download/installation of smina (as not in noteable)
+- Rewrote PDB-file download
+
 T016:
 - added pip install for PLIP
 - Updated RCSB API call
@@ -76,10 +81,7 @@ T010:
 - Not sure if this is the way to go as RMSD values rather high
 - TODO: Triple check and adjust
 
-T015:
-- Removed dependencyon teachopencadd
-- Rewrote PDB-file download
-- TODO: Problem with smina and python3.13 seems (will be problematic for T018 as well, and for all courses)
+
 
 
 
