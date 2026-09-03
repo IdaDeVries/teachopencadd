@@ -30,9 +30,17 @@ T007:
 - Updated deprecated SVC(probability=True) for future robustness
 - TODO later: Remove dependency on T005 output files - potentially
 
+T008:
+- Replaced functions that relied on deprecated RCSB ligand exported
+- Rewrote completely keeping the same aims and objectives
+- Introduced an mmCIF file intermezzo
+
 T009:
 - relies on output T008, which is problematic
 - Replace this talktorial by tutorial using Pharmit webinterface in ACMDD course 
+
+T010:
+- Rewrote alignment of protein part 
 
 T013:
 - Updated API change CanonicalSMILES to ConnectivitySMILES
@@ -54,6 +62,9 @@ T016:
 - added pip install for PLIP
 - Updated RCSB API call
 
+T017:
+- Nothing changed, all good
+
 T021:
 - Removed dependency on PandasTools
 - Updated scikit-learn one-hot encoding 
@@ -67,37 +78,10 @@ T022:
 - Added tensorflow log suppression to hide unnecessary CPU/GPU startup messages
 
 
-
-
-
-T008:
-- Replaced functions that relied on deprecated RCSB ligand exported
-- Rewrote completely keeping the same aims and objectives
-- Introduced an mmCIF file intermezzo
-- TODO: work on visualizer
-
-T010:
-- Rewrote alignment of protein part (ongoing)
-- Not sure if this is the way to go as RMSD values rather high
-- TODO: Triple check and adjust
-
-
-
-
-
 -----------------------------------------------------------------------------
-TODO: for myself to mimic noteable env add to yml
-- rdkit
-- seaborn
-- mdtraj
-- setuptools 82.0.1
-- redo 
-- pymongo
-- requests-cache
-- mordred
-?- bravado (verify against exported Noteable environment)
-?- matplotlib-venn (verify against exported Noteable environment)
-
+T011, T012, T023, T024, T025, T026, T027 and T028:
+- Not relevant for this course (ACMDD-2627) so ignored for now
+- All raises errors 
 
 Known issue ngl view:
 - NGLView emits a pkg_resources deprecation warning.
