@@ -65,6 +65,18 @@ T016:
 T017:
 - Nothing changed, all good
 
+T019:
+- Complete rewrite now simualting lysozyme protein only
+- Added simple basic analysis
+- talktorial for learning the basics of MD
+- Based on tutorials from openmm and teachopencadd (old) talktorials T019 and T020
+
+T020: TODO: 
+- Added protein-ligand simulation that was in old T019
+- Precomputed ligand parameters 
+- Rewrote ...?
+- Added extra information at end of talktorial containing code for generating ligand parameters using openff
+
 T021:
 - Removed dependency on PandasTools
 - Updated scikit-learn one-hot encoding 
