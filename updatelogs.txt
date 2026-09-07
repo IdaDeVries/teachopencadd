@@ -74,8 +74,7 @@ T019:
 T020: TODO: 
 - Added protein-ligand simulation that was in old T019
 - Precomputed ligand parameters 
-- Rewrote ...?
-- Added extra information at end of talktorial containing code for generating ligand parameters using openff
+- Check suitable/acceptable simulation time for tutorial (TODO:)
 
 T021:
 - Removed dependency on PandasTools
