@@ -163,3 +163,5 @@ talktorials/T015_protein_ligand_docking/smina
 talktorials/T020_md_analysis/data/trajectory.xtc
 .gitignore
 talktorials/T020_md_analysis/data/simulation_log.txt
+talktorials/T020_md_analysis/data/.trajectory.xtc_offsets.npz
+.gitignore
